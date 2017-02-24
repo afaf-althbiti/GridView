@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GridView</string>
+    <string-array name="categories">
+        <item>Hospitals </item>
+        <item>Malls</item>
+        <item>Hair Stylists </item>
+        <item>Entertainment</item>
+        <item>Cafes </item>
+        <item>spa and leisure</item>
+        <item> Tourism</item>
+        <item>Sport</item>
+        <item>Education</item>
+        <item>Hotels </item>
+        <item>Restaurants</item>
+        <item>Parks</item>
+    </string-array>
+</resources>
